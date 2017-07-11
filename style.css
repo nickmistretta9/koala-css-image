@@ -6,7 +6,7 @@ body {
 	position:relative;
 	margin:auto;
 	display:block;
-	margin-top: 8%;
+	margin-top: 5%;
 	width:600px;
 	height:420px;
 	background:none;
@@ -124,4 +124,17 @@ body {
 	height:20%;
 	background:#A6BECF;
 	clip-path:polygon(50% 0%, 0% 100%, 100% 100%);
+}
+
+h1 {
+	color:#fff;
+	font-size:60px;
+	font-weight:bold;
+	text-align: center;
+}
+
+p {
+	color:#fff;
+	text-align: center;
+	font-size:24px;
 }
